@@ -15,6 +15,9 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
+</br>
+</br>
+</br>
 ### - Learning :
 - ✨ React
 
@@ -33,11 +36,11 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/web.png" alt="web" width="83" hight="50">
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/js.png" alt="javascript" width="120" hight="50">
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/html.png" alt="html"  width="91" hight="50">
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/css3.png" alt="css3" width="85" hight="50">
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/visualstudio_code.png" alt="visualstudio_code" width="172" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/web.png" alt="web" width="84" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/js.png" alt="javascript" width="125" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/html.png" alt="html"  width="95" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/css3.png" alt="css3" width="88" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/visualstudio_code.png" alt="visualstudio_code" width="180" hight="50">
 </br>
 </p>
 </br>
