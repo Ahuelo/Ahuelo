@@ -21,11 +21,13 @@
 
 
 ### - Learning :
-- ✨ React
+- 🖥️ React
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- 🎮 Gaming Addict
 - 🏋️‍♂️ Go to the GYM
+- 🎧 Listen to music
+
 </br>
 </br>
 </br>
@@ -51,13 +53,12 @@
 
 
 
-# Contact Me :
+# Contact Me 📎 :
 
 <p>
  </br>
 
  <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/elmo.gif">
-If you want to contact me.
 
 <a href="mailto:nelson.moncar@outlook.com">
  <img align="left" alt="outlook" width="130" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/outlook.png" />
