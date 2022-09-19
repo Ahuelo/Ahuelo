@@ -14,10 +14,8 @@
 ### - I'm 30 years, A passionate Frontend Developer from Colombia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+</br>
 
-</br>
-</br>
-</br>
 
 
 ### - Learning :
@@ -61,19 +59,19 @@
  <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/elmo.gif">
 
 <a href="mailto:nelson.moncar@outlook.com">
- <img align="left" alt="outlook" width="130" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/outlook.png" />
+ <img align="left" alt="outlook" width="140" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/outlook.png" />
 </a>
 <a href="https://linkedin.com/in/Ahuelo">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/linkedin.png" />
+  <img align="left" alt="Linkedin" width="148" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.instagram.com/ahuelo_iv/">
-  <img align="left" alt=" instagram" width="130" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/instagram.png" />
+  <img align="left" alt=" instagram" width="152" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/instagram.png" />
 </a>
 <a href="https://twitter.com/MoncarIvan">
-  <img align="left" alt="twitter" width="130" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/twitter.png" />
+  <img align="left" alt="twitter" width="127" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/twitter.png" />
 </a>
  </p>
  
