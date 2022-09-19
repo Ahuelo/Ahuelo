@@ -33,11 +33,11 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/web.png" alt="web" width="120" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/web.png" alt="web" width="83" hight="50">
 <img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/js.png" alt="javascript" width="120" hight="50">
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/html.png" alt="html"  width="100" hight="50">
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/css3.png" alt="css3" width="90" hight="50">
-<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/html.png" alt="html"  width="91" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/css3.png" alt="css3" width="85" hight="50">
+<img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/visualstudio_code.png" alt="visualstudio_code" width="172" hight="50">
 </br>
 </p>
 </br>
