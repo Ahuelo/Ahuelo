@@ -1,10 +1,10 @@
-### Hi there 👋
+### <h2>Hi there 👋</h2>
 
 <div align="center">
 <img hight="300" width="700" alt="jpg" align="center" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/banner.jpg">
 
-<p>
-I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routine to expand knowledge and skills, I carry out multiple personal projects.</p>
+<h3>
+I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routine to expand knowledge and skills, I carry out multiple personal projects.</h3>
 </div>
 
 </br>
