@@ -1,4 +1,4 @@
-### <h2>Hi there 👋</h2>
+### <h1>Hi there 👋</h1>
 
 <div align="center">
 <img hight="300" width="700" alt="jpg" align="center" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/banner.jpg">
@@ -9,7 +9,7 @@ I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routi
 
 </br>
 </br>
-</br>
+
 
 
 # About ME 💬 :
@@ -81,6 +81,8 @@ Thanks you for your inspiration
     - https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs- 
     - https://github.com/Xx-Ashutosh-xX 
     - https://github.com/MikeCodesDotNET/ColoredBadges -->
+</br>
+</br>
 </br>
 </br>
 </br>
