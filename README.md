@@ -2,6 +2,9 @@
 
 <div align="center">
 <img hight="300" width="700" alt="jpg" align="center" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/banner.jpg">
+
+<p>
+I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routine to expand knowledge and skills, I carry out multiple personal projects.</p>
 </div>
 
 </br>
@@ -11,7 +14,6 @@
 
 # About ME 💬 :
 
-### - I'm 30 years, A passionate Frontend Developer from Colombia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 </br>
@@ -37,7 +39,7 @@
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
 <img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/web.png" alt="web" width="84" hight="50">
 <img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/js.png" alt="javascript" width="125" hight="50">
 <img src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/html.png" alt="html"  width="96" hight="50">
@@ -74,8 +76,11 @@
   <img align="left" alt="twitter" width="127" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/twitter.png" />
 </a>
  </p>
-<!--Thanks you for your inspiration https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs- -->
-<!--Thanks you for your inspiration https://github.com/Xx-Ashutosh-xX -->
+<!-- Special Thanks
+Thanks you for your inspiration 
+    - https://github.com/abhisheknaiidu/awesome-github-profile-readme#gifs- 
+    - https://github.com/Xx-Ashutosh-xX 
+    - https://github.com/MikeCodesDotNET/ColoredBadges -->
 </br>
 </br>
 </br>
