@@ -4,7 +4,7 @@
 <img hight="300" width="700" alt="jpg" align="center" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/banner.jpg">
 
 <h3>
-I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routine to expand knowledge and skills, I carry out multiple personal projects.</h3>
+I'm a passionate Frontend Developer from Colombia. As part of my routine to expand knowledge and skills, I carry out multiple personal projects.</h3>
 </div>
 
 </br>
