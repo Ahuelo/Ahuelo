@@ -8,7 +8,6 @@ I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routi
 </div>
 
 </br>
-</br>
 
 
 
@@ -30,7 +29,6 @@ I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routi
 
 </br>
 </br>
-</br>
 
 
 
@@ -48,9 +46,6 @@ I'm 30 years, A passionate Frontend Developer from Colombia. As part of my routi
 </br>
 </p>
 </br>
-</br>
-
-
 
 
 # Contact Me 📎 :
