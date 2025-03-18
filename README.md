@@ -64,12 +64,7 @@ I'm a passionate Frontend Developer from Colombia. As part of my routine to expa
 </br>
 </br>
 </a>
-<a href="https://www.instagram.com/ahuelo_iv/">
-  <img align="left" alt=" instagram" width="152" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/instagram.png" />
-</a>
-<a href="https://twitter.com/MoncarIvan">
-  <img align="left" alt="twitter" width="127" hight="100" src="https://github.com/Ahuelo/Ahuelo/blob/main/assets/twitter.png" />
-</a>
+
  </p>
 <!-- Special Thanks
 Thanks you for your inspiration 
